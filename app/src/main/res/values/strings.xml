@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="welcome_text"> Hallo neue Welt, das ist meine Erste Text View!</string>
+    <string name="output_text"> Output </string>
+    <string name="output_button">Drück mich!</string>
+    <string name="input_plainText"> Input Test </string>
+    <string name="newActivity_button">Nächste Activity</string>
+    <string name="noInput_text">Nichts drin</string>
+    <string name="visible_switch">Visible</string>
+    <string name="onVisible_text">BOO</string>
+</resources>
